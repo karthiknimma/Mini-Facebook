@@ -8,17 +8,13 @@ CPS 475/575 Secure Application Development
 
  Dr Phu Phung
 
-###Secad Project Team-12
+###Secad Project 
 
 ###AUTHORS:     
 
-Karthik Nimma (nimmak1@udayton.edu) Student Id - 101650589  
+Karthik Nimma (nimmak1@udayton.edu) Student Id - 101650589 
 
-Mrigank Pandey (pandeym1@udayton.edu) Student Id - 101671124  
-
-
-https://udayton.zoom.us/rec/play/5sLT6TVWxpQXTyI2zWX82lx7Lk9TPf6s69UK2o8FhGP3OAXTBv2ixq9_d8F15CJL7VzmJrybyKWgAEgw.EYeMHvkcAo5R46Rq?continueMode=true
-
+# DEMO
 https://youtu.be/GYmF-a0ps0g
 
 
